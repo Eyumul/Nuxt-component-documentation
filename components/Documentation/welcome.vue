@@ -11,7 +11,7 @@
                 <p class="text-lg lg:text-5xl text opacity-75"><span class="text-primary-600 opacity-100">Welcome!</span> This will get you started in to your project with built in Component by Minab.</p>
             </div>
             <!-- change '/' to the link of the documentation after deployment -->
-            <button @click="$router.push('/')" class="bg-primary-900 hover:bg-primary-600 rounded-[8px] py-[4px] px-5 flex gap-4 text-lg items-center">
+            <button @click="$router.push('/documentation')" class="bg-primary-900 hover:bg-primary-600 rounded-[8px] py-[4px] px-5 flex gap-4 text-lg items-center">
                 <icon name="mdi:file-document-multiple"/>
                 <p>View Documentation</p>
             </button>
