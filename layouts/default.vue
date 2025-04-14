@@ -86,7 +86,7 @@
 const scrollableContainer = ref(null);
 const collapsed = ref(true);
 const colorMode = useColorMode();
-colorMode.preference = 'light';
+colorMode.preference = 'dark';
 
 function scrollToSection(sectionId) {
     const element = document.getElementById(sectionId)
