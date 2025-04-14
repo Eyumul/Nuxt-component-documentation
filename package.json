@@ -21,7 +21,7 @@
     "@vueuse/core": "^11.0.0",
     "abushakir": "^1.4.0",
     "debug": "^4.3.6",
-    "nuxt": "^3.12.4",
+    "nuxt": "^3.16.2",
     "nuxt-headlessui": "^1.2.0",
     "nuxt-icon": "0.6.10",
     "prismjs": "^1.29.0",
